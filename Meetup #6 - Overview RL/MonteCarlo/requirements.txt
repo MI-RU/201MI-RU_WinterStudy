@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 # environment.py: 4
-Pillow == 4.2.1
+Pillow == 10.0.1
 
 # mc_agent.py: 4
 environment == 1.0.0
