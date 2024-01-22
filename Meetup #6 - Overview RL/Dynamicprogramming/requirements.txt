@@ -3,7 +3,7 @@
 
 # policy_iteration/environment.py: 5
 # value_iteration/environment.py: 5
-Pillow == 4.2.1
+Pillow == 10.2.0
 
 # policy_iteration/policy_iteration.py: 3
 # value_iteration/value_iteration.py: 2
